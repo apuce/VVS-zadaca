@@ -1,0 +1,24 @@
+C:\Users\X\Documents\Visual Studio 2013\Projects\ClassLibrary1\Zadaca_MojZamger\bin\Debug\Zadaca_MojZamger.exe.config
+C:\Users\X\Documents\Visual Studio 2013\Projects\ClassLibrary1\Zadaca_MojZamger\bin\Debug\Zadaca_MojZamger.exe
+C:\Users\X\Documents\Visual Studio 2013\Projects\ClassLibrary1\Zadaca_MojZamger\bin\Debug\Zadaca_MojZamger.pdb
+C:\Users\X\Documents\Visual Studio 2013\Projects\ClassLibrary1\Zadaca_MojZamger\bin\Debug\ClassLibrary1.dll
+C:\Users\X\Documents\Visual Studio 2013\Projects\ClassLibrary1\Zadaca_MojZamger\bin\Debug\ClassLibrary1.pdb
+C:\Users\X\Documents\Visual Studio 2013\Projects\ClassLibrary1\Zadaca_MojZamger\obj\Debug\Zadaca_MojZamger.csprojResolveAssemblyReference.cache
+C:\Users\X\Documents\Visual Studio 2013\Projects\ClassLibrary1\Zadaca_MojZamger\obj\Debug\Zadaca_MojZamger.exe
+C:\Users\X\Documents\Visual Studio 2013\Projects\ClassLibrary1\Zadaca_MojZamger\obj\Debug\Zadaca_MojZamger.pdb
+C:\Users\X\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\bin\Debug\Zadaca_MojZamger.exe.config
+C:\Users\X\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\obj\Debug\Zadaca_MojZamger.exe
+C:\Users\X\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\obj\Debug\Zadaca_MojZamger.pdb
+C:\Users\X\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\bin\Debug\Zadaca_MojZamger.exe
+C:\Users\X\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\bin\Debug\Zadaca_MojZamger.pdb
+C:\Users\X\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\bin\Debug\ClassLibrary1.dll
+C:\Users\X\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\bin\Debug\ClassLibrary1.pdb
+C:\Users\X\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\obj\Debug\Zadaca_MojZamger.csprojResolveAssemblyReference.cache
+C:\Users\amina\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\bin\Debug\Zadaca_MojZamger.exe.config
+C:\Users\amina\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\obj\Debug\Zadaca_MojZamger.exe
+C:\Users\amina\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\obj\Debug\Zadaca_MojZamger.pdb
+C:\Users\amina\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\bin\Debug\Zadaca_MojZamger.exe
+C:\Users\amina\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\bin\Debug\Zadaca_MojZamger.pdb
+C:\Users\amina\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\bin\Debug\ClassLibrary1.dll
+C:\Users\amina\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\bin\Debug\ClassLibrary1.pdb
+C:\Users\amina\Desktop\RPR ZADACA1\ClassLibrary1\Zadaca_MojZamger\obj\Debug\Zadaca_MojZamger.csprojResolveAssemblyReference.cache
